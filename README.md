@@ -1,4 +1,4 @@
-# AI Image Editor SaaS Platform
+# VOOM - Video Conferencing App
 
 ## Features
 - Authentication using Clerk
